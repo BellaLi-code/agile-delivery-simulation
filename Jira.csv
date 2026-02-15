@@ -1,0 +1,407 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Fix versions,Due date,Votes,Labels,Labels,Labels,Labels,Labels,Description,Environment,Watchers,Watchers Id,Log Work,Log Work,Log Work,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Inward issue link (Cloners),Outward issue link (Cloners),Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Approvals),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Development),Custom field (Epic Color),Custom field (Epic Name),Custom field (Epic Status),Custom field (Focus Areas),Custom field (Goals),Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Project overview key),Custom field (Project overview status),Custom field (Rank),Custom field (Request Type),Custom field (Sentiment),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Total forms),Custom field (Vulnerability),Custom field ([CHART] Date of First Response),Custom field ([CHART] Time in Status),Parent,Parent key,Parent summary,Status Category,Status Category Changed
+Deliverable 1 — Final Integration & Formatting (Bella),CS4483-68,10106,Task,Done,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,Done,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 4:37 PM,15/Feb/26 4:51 PM,15/Feb/26 4:46 PM,15/Feb/26 4:51 PM,D1 Deliverable 1 (Project Proposal),,0,documentation,,,,,"Feb 5:
+
+* Completed majority of content except pages 4, 5, 7.
+* Assigned remaining pages to Jack.
+
+Feb 10:
+
+* Received Jack's completed sections.
+
+Feb 11:
+
+* Unified formatting.
+* Final submission.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,15/Feb/26 4:46 PM;7ad0d71c-a1df-4506-a6ed-cb57c7870f66;CS4483-Deliverable 1_ Project Proposal.pdf;https://bellali.atlassian.net/rest/api/3/attachment/content/10003,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7a96db25,,,,,,,,,,,,,,,,0|i000hr:,,,,,,,,,,,,,,10011_*:*_1_*:*_804990_*|*_10012_*:*_1_*:*_0,,,,Done,15/Feb/26 4:51 PM
+Deliverable 1 — Theme Decision & Narrative Direction,CS4483-67,10105,Task,Done,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,Done,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 4:37 PM,15/Feb/26 4:51 PM,15/Feb/26 4:46 PM,15/Feb/26 4:51 PM,D1 Deliverable 1 (Project Proposal),,0,design-decision,meeting-notes,,,,"Jan 14 (21:00 meeting):
+
+* Rejected ""Pig Jam"" concept (feasibility concerns).
+* Proposed 2D side-scrolling structure.
+* Defined narrative premise and world setting.
+
+Jan 27:
+
+* Re-evaluated feasibility of 2D side-scroller.
+
+Feb 2:
+
+* Finalized 2D side-scroller as official project direction.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,15/Feb/26 4:47 PM;7ad0d71c-a1df-4506-a6ed-cb57c7870f66;Brainstorming – Game Concept Ideation.png;https://bellali.atlassian.net/rest/api/3/attachment/content/10004,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@26cd0455,,,,,,,,,,,,,,,,0|i000hj:,,,,,,,,,,,,,,10011_*:*_1_*:*_840441_*|*_10012_*:*_1_*:*_0,,,,Done,15/Feb/26 4:51 PM
+Deliverable 1 — Doc Template & Appendix 1 (Bella),CS4483-66,10104,Task,Done,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,Done,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 4:36 PM,15/Feb/26 4:51 PM,,15/Feb/26 4:51 PM,D1 Deliverable 1 (Project Proposal),,0,documentation,structure,,,,"Jan 14:
+
+* Created deliverable document structure.
+* Completed Appendix 1 draft.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@762b59d2,,,,,,,,,,,,,,,,0|i000hb:,,,,,,,,,,,,,,10011_*:*_1_*:*_887018_*|*_10012_*:*_1_*:*_0,,,,Done,15/Feb/26 4:51 PM
+Activity 1 — Page Limit Compression & Final Submission,CS4483-65,10103,Task,Done,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,Done,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 4:35 PM,15/Feb/26 4:50 PM,15/Feb/26 4:45 PM,15/Feb/26 4:50 PM,A1 Activity 1,,0,editing,quality-control,,,,"Feb 3:
+
+* Identified page count exceeding 3-page limit.
+* Jointly reduced content.
+* Final formatting and submission.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,15/Feb/26 4:45 PM;7ad0d71c-a1df-4506-a6ed-cb57c7870f66;Activity 1.pdf;https://bellali.atlassian.net/rest/api/3/attachment/content/10001,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@38e47f2,,,,,,,,,,,,,,,,0|i000h3:,,,Sprint 0 — Setup & Planning,,,,,,,,,,,10011_*:*_1_*:*_909031_*|*_10012_*:*_1_*:*_0,,,,Done,15/Feb/26 4:50 PM
+Activity 1 — Sections 7–13 (Jack),CS4483-64,10102,Task,Done,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,Done,Jack,712020:e6f6796d-e4b8-4c16-a0cc-7c07cb345613,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 4:34 PM,15/Feb/26 4:50 PM,,15/Feb/26 4:50 PM,A1 Activity 1,,0,collaboration,documentation,writing,,,"Jan 27:
+
+* Confirmed work division (Sections 7–13 assigned to Jack).
+
+Feb 2:
+
+* Draft completed.
+
+Feb 3:
+
+* Collaborated on final editing and compression.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@528034fa,,,,,,,,,,,,,,,,0|i000gv:,,,,,,,,,,,,,,10011_*:*_1_*:*_990987_*|*_10012_*:*_1_*:*_0,,,,Done,15/Feb/26 4:50 PM
+Activity 1 — Doc Template & Sections 1–6 (Bella),CS4483-63,10101,Task,Done,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,Done,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 4:33 PM,15/Feb/26 4:50 PM,15/Feb/26 4:43 PM,15/Feb/26 4:50 PM,A1 Activity 1,,0,activity1,documentation,writing,,,"Jan 14:
+
+* Created Google Doc template.
+* Structured format framework.
+
+Jan 31:
+
+* Completed Sections 1–6.
+
+Feb 3:
+
+* Participated in final compression and editing.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,15/Feb/26 4:44 PM;7ad0d71c-a1df-4506-a6ed-cb57c7870f66;Activity 1.pdf;https://bellali.atlassian.net/rest/api/3/attachment/content/10000,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4d4212e8,,,,,,,,,,,,,,,,0|i000gn:,,,Sprint 0 — Setup & Planning,,,,,,,,,,,10011_*:*_1_*:*_1065331_*|*_10012_*:*_1_*:*_0,,,,Done,15/Feb/26 4:50 PM
+Team Contract — Draft & Coordination,CS4483-62,10100,Task,Done,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,High,Done,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 4:30 PM,15/Feb/26 4:50 PM,15/Feb/26 4:45 PM,15/Feb/26 4:50 PM,D0 Team Contract,,0,coordination,documentation,meeting,,,"This issue tracks the drafting, formatting, coordination, and submission of the Team Contract.
+
+Work Log:
+
+Jan 11:
+
+* Created Google Doc and structured formatting template.
+
+Jan 12:
+
+* Scheduled Jan 13 20:00 team meeting.
+* Coordinated section assignments in group chat.
+
+Jan 13:
+
+* Conducted team meeting.
+* Finalized contract content.
+* Confirmed individual responsibilities.
+* Submitted Team Contract.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,;15/Feb/26 4:31 PM;7ad0d71c-a1df-4506-a6ed-cb57c7870f66;3600,;15/Feb/26 4:31 PM;7ad0d71c-a1df-4506-a6ed-cb57c7870f66;1800,;15/Feb/26 4:32 PM;7ad0d71c-a1df-4506-a6ed-cb57c7870f66;7200,,0,12600,,,0,12600,,,,,,,,,15/Feb/26 4:45 PM;7ad0d71c-a1df-4506-a6ed-cb57c7870f66;CS4483-TeamContract.pdf;https://bellali.atlassian.net/rest/api/3/attachment/content/10002,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@30ca9d46,,,,,,,,,,,,,,,,0|i000gf:,,,Sprint 0 — Setup & Planning,04/Jan/26 12:00 AM,,,,,,,,,,10011_*:*_1_*:*_1198443_*|*_10012_*:*_1_*:*_0,,,,Done,15/Feb/26 4:50 PM
+Evidence collection (screenshots + 1 short clip),CS4483-61,10099,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 4:19 PM,15/Feb/26 4:20 PM,15/Feb/26 4:20 PM,,,24/Mar/26 12:00 AM,0,,,,,,"Capture:
+
+* Level flow
+* Narrative delivery
+* Progression mechanic
+* Before/after balancing example",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,CS4483-55,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@169fd72c,,,,,,,,,,,,,,,,0|i000g7:,,,"Sprint 4 — Build, Polish & Rep",,,,,,,,,,,,10091,CS4483-54,"Testing, Iteration & Documentation (D2)",To Do,15/Feb/26 4:19 PM
+Final D2 report draft integration,CS4483-60,10098,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 4:19 PM,15/Feb/26 4:20 PM,15/Feb/26 4:20 PM,,,24/Mar/26 12:00 AM,0,,,,,,"Finalize report sections:
+
+* Level Design
+* Narrative
+* Systems & Balance
+* Progression
+* Testing & Iteration",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,CS4483-55,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6fd71be0,,,,,,,,,,,,,,,,0|i000fz:,,,"Sprint 4 — Build, Polish & Rep",,,,,,,,,,,,10091,CS4483-54,"Testing, Iteration & Documentation (D2)",To Do,15/Feb/26 4:19 PM
+Build packaging (Windows export),CS4483-59,10097,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Jack,712020:e6f6796d-e4b8-4c16-a0cc-7c07cb345613,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 4:19 PM,15/Feb/26 4:20 PM,15/Feb/26 4:20 PM,,,23/Mar/26 12:00 AM,0,,,,,,"Generate stable Windows build.
+Test launch on clean machine.
+Verify no missing assets.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,CS4483-55,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@561b1a00,,,,,,,,,,,,,,,,0|i000fr:,,,"Sprint 4 — Build, Polish & Rep",,,,,,,,,,,,10091,CS4483-54,"Testing, Iteration & Documentation (D2)",To Do,15/Feb/26 4:19 PM
+Smoke test checklist validation,CS4483-58,10096,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Jack,712020:e6f6796d-e4b8-4c16-a0cc-7c07cb345613,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 4:18 PM,15/Feb/26 4:21 PM,15/Feb/26 4:20 PM,,,22/Mar/26 12:00 AM,0,,,,,,"Validate:
+
+* No soft locks
+* Restart flow stable
+* UI elements consistent
+* Progression persists
+* No major regression bugs",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,CS4483-55,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@698a9569,,,,,,,,,,,,,,,,0|i000fj:,,,"Sprint 4 — Build, Polish & Rep",,,,,,,,,,,,10091,CS4483-54,"Testing, Iteration & Documentation (D2)",To Do,15/Feb/26 4:18 PM
+Iteration implementation pass,CS4483-57,10095,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 4:18 PM,15/Feb/26 4:21 PM,15/Feb/26 4:21 PM,,,21/Mar/26 12:00 AM,0,,,,,,"Implement adjustments based on grouped feedback.
+Document before/after changes.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,CS4483-55,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@29d31e81,,,,,,,,,,,,,,,,0|i000fb:,,,"Sprint 4 — Build, Polish & Rep",,,,,,,,,,,,10091,CS4483-54,"Testing, Iteration & Documentation (D2)",To Do,15/Feb/26 4:18 PM
+Feedback synthesis & issue grouping,CS4483-56,10094,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 4:18 PM,15/Feb/26 4:21 PM,15/Feb/26 4:21 PM,,,19/Mar/26 12:00 AM,0,,,,,,"Cluster feedback into:
+
+* Level flow issues
+* Balance tuning issues
+* Narrative clarity issues
+* UX friction",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,CS4483-55,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@682ee75,,,,,,,,,,,,,,,,0|i000f3:,,,"Sprint 4 — Build, Polish & Rep",,,,,,,,,,,,10091,CS4483-54,"Testing, Iteration & Documentation (D2)",To Do,15/Feb/26 4:18 PM
+Structured playtest sessions,CS4483-55,10093,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 4:17 PM,15/Feb/26 4:19 PM,15/Feb/26 4:20 PM,,,18/Mar/26 12:00 AM,0,,,,,,"Conduct at least 3 structured playtests.
+Record feedback regarding:
+
+* Clarity of guidance
+* Balance fairness
+* Progression feel
+* Narrative readability",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,CS4483-56,CS4483-57,CS4483-58,CS4483-59,CS4483-60,CS4483-61,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@26c88323,,,,,,,,,,,,,,,,0|i000ev:,,,"Sprint 4 — Build, Polish & Rep",,,,,,,,,,,,10091,CS4483-54,"Testing, Iteration & Documentation (D2)",To Do,15/Feb/26 4:17 PM
+"Testing, Iteration & Documentation (D2)",CS4483-54,10091,Story,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,High,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 4:16 PM,15/Feb/26 4:16 PM,15/Feb/26 4:16 PM,,D2 Deliverable 2 (Mid-Project Report),25/Mar/26 12:00 AM,0,deliverable-d2,documentation,iteration,rubric,testing,"h2. Description
+
+This story covers structured playtesting, iteration tracking, and final documentation for Deliverable 2.
+
+The goal is to demonstrate measurable iteration, clear design adjustments, and traceable development decisions based on testing feedback.
+
+----
+
+h2. Acceptance Criteria
+
+* At least 3 structured playtest sessions OR ≥ 5 documented feedback points.
+* Design changes are explicitly tracked (before → change → result).
+* Build stability validated via smoke testing checklist.
+* Report draft includes required D2 sections (design rationale, iteration evidence, reflection).
+* Screenshots / short clip included as supporting evidence.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7cd09bd8,,,,,,,,,,,,,,,,0|i000en:,,,"Sprint 4 — Build, Polish & Rep",,,,,,,,,,,,10055,CS4483-28,Deliverable 2 — Mid-Project Report (Unity Prototype),To Do,15/Feb/26 4:16 PM
+Report documentation,CS4483-53,10090,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Jack,712020:e6f6796d-e4b8-4c16-a0cc-7c07cb345613,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 4:03 PM,15/Feb/26 4:12 PM,15/Feb/26 4:12 PM,,,15/Mar/26 12:00 AM,0,,,,,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,CS4483-49,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7cdd59b0,,,,,,,,,,,,,,,,0|i000ef:,,,Sprint 3 — Content & Balancing,,,,,,,,,,,,10084,CS4483-48,Progression Systems & Rewards (D2),To Do,15/Feb/26 4:03 PM
+Progression balancing pass,CS4483-52,10089,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 4:02 PM,15/Feb/26 4:12 PM,15/Feb/26 4:10 PM,,,14/Mar/26 12:00 AM,0,,,,,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,CS4483-49,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@55b78bd8,,,,,,,,,,,,,,,,0|i000e7:,,,Sprint 3 — Content & Balancing,,,,,,,,,,,,10084,CS4483-48,Progression Systems & Rewards (D2),To Do,15/Feb/26 4:02 PM
+Persistence implementation,CS4483-51,10088,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 4:02 PM,15/Feb/26 4:10 PM,15/Feb/26 4:10 PM,,,13/Mar/26 12:00 AM,0,,,,,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,CS4483-49,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@434adfa4,,,,,,,,,,,,,,,,0|i000dz:,,,Sprint 3 — Content & Balancing,,,,,,,,,,,,10084,CS4483-48,Progression Systems & Rewards (D2),To Do,15/Feb/26 4:02 PM
+Reward loop integration,CS4483-50,10087,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Jack,712020:e6f6796d-e4b8-4c16-a0cc-7c07cb345613,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 4:02 PM,15/Feb/26 4:10 PM,15/Feb/26 4:10 PM,,,11/Mar/26 12:00 AM,0,,,,,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,CS4483-49,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6a40f085,,,,,,,,,,,,,,,,0|i000dr:,,,Sprint 3 — Content & Balancing,,,,,,,,,,,,10084,CS4483-48,Progression Systems & Rewards (D2),To Do,15/Feb/26 4:02 PM
+Implement progression mechanic,CS4483-49,10086,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 4:01 PM,15/Feb/26 4:03 PM,15/Feb/26 4:01 PM,,,09/Mar/26 12:00 AM,0,,,,,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,CS4483-50,CS4483-51,CS4483-52,CS4483-53,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@762bcac1,,,,,,,,,,,,,,,,0|i000dj:,,,Sprint 3 — Content & Balancing,,,,,,,,,,,,10084,CS4483-48,Progression Systems & Rewards (D2),To Do,15/Feb/26 4:01 PM
+Progression Systems & Rewards (D2),CS4483-48,10084,Story,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,High,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 4:00 PM,15/Feb/26 4:09 PM,15/Feb/26 4:09 PM,,D2 Deliverable 2 (Mid-Project Report),15/Mar/26 12:00 AM,0,deliverable-d2,progression,rewards,rubric,,"Design and implement progression systems that create a meaningful reward loop.
+
+Acceptance Criteria:
+
+* At least one progression mechanic implemented (XP, unlock, item reward, or stage-based rewards).
+* At least one meaningful reward loop (intrinsic + extrinsic).
+* Progress state persists across a session.
+* Progression logic documented in report.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1fab6697,,,,,,,,,,,,,,,,0|i000db:,,,Sprint 3 — Content & Balancing,05/Mar/26 12:00 AM,,,,,,,,,,,10055,CS4483-28,Deliverable 2 — Mid-Project Report (Unity Prototype),To Do,15/Feb/26 4:00 PM
+Evidence capture,CS4483-47,10082,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Jack,712020:e6f6796d-e4b8-4c16-a0cc-7c07cb345613,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 3:53 PM,15/Feb/26 3:54 PM,15/Feb/26 3:54 PM,,,14/Mar/26 12:00 AM,0,,,,,,Unity resource system implementation (health/energy/currency),,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,CS4483-43,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@a892d39,,,,,,,,,,,,,,,,0|i000d3:,,,Sprint 3 — Content & Balancing,,,,,,,,,,,,10076,CS4483-42,Systems Design & Game Balance (D2),To Do,15/Feb/26 3:53 PM
+Tuning notes documentation,CS4483-46,10081,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 3:53 PM,15/Feb/26 3:54 PM,15/Feb/26 3:54 PM,,,14/Mar/26 12:00 AM,0,,,,,,Unity resource system implementation (health/energy/currency),,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,CS4483-43,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@67a02035,,,,,,,,,,,,,,,,0|i000cv:,,,Sprint 3 — Content & Balancing,,,,,,,,,,,,10076,CS4483-42,Systems Design & Game Balance (D2),To Do,15/Feb/26 3:53 PM
+Difficulty tuning pass,CS4483-45,10080,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 3:53 PM,15/Feb/26 3:54 PM,15/Feb/26 3:54 PM,,,12/Mar/26 12:00 AM,0,,,,,,Unity resource system implementation (health/energy/currency),,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,CS4483-43,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4ff593c2,,,,,,,,,,,,,,,,0|i000cn:,,,Sprint 3 — Content & Balancing,,,,,,,,,,,,10076,CS4483-42,Systems Design & Game Balance (D2),To Do,15/Feb/26 3:53 PM
+Risk–reward loop integration,CS4483-44,10079,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Jack,712020:e6f6796d-e4b8-4c16-a0cc-7c07cb345613,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 3:52 PM,15/Feb/26 3:55 PM,15/Feb/26 3:55 PM,,,09/Mar/26 12:00 AM,0,,,,,,Unity resource system implementation (health/energy/currency),,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,CS4483-43,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@b2edb75,,,,,,,,,,,,,,,,0|i000cf:,,,Sprint 3 — Content & Balancing,,,,,,,,,,,,10076,CS4483-42,Systems Design & Game Balance (D2),To Do,15/Feb/26 3:52 PM
+Core resource implementation,CS4483-43,10078,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 3:50 PM,15/Feb/26 3:53 PM,15/Feb/26 3:52 PM,,,06/Mar/26 12:00 AM,0,,,,,,Unity resource system implementation (health/energy/currency),,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,CS4483-44,CS4483-45,CS4483-46,CS4483-47,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@480ddfcc,,,,,,,,,,,,,,,,0|i000c7:,,,Sprint 3 — Content & Balancing,,,,,,,,,,,,10076,CS4483-42,Systems Design & Game Balance (D2),To Do,15/Feb/26 3:50 PM
+Systems Design & Game Balance (D2),CS4483-42,10076,Story,In Progress,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,High,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 3:49 PM,15/Feb/26 4:51 PM,15/Feb/26 3:50 PM,,D2 Deliverable 2 (Mid-Project Report),14/Mar/26 12:00 AM,0,balance,deliverable-d2,rubric,systems,,"Implement and tune core gameplay systems to satisfy D2 rubric requirements.
+
+Acceptance Criteria:
+
+* Resource system implemented (health / energy / currency).
+* Risk–reward loop exists and is tunable.
+* Difficulty curve is explainable and supported by tuning notes.
+* Balancing decisions documented in report.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2ecaef70,,,,,,,,,,,,,,,,0|i000bz:,,,Sprint 3 — Content & Balancing,03/Mar/26 12:00 AM,,,,,,,,,,,10055,CS4483-28,Deliverable 2 — Mid-Project Report (Unity Prototype),In Progress,15/Feb/26 4:51 PM
+Report write-up (Narrative & World-Building section),CS4483-41,10075,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 12:31 PM,15/Feb/26 12:34 PM,15/Feb/26 12:33 PM,,D2 Deliverable 2 (Mid-Project Report),12/Mar/26 12:00 AM,0,deliverable-d2,report,rubric,,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,CS4483-36,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@631eff72,,,,,,,,,,,,,,,,0|i000br:,,,Sprint 3 — Content & Balancing,,,,,,,,,,,,10069,CS4483-35,Narrative Design & World-Building (D2),To Do,15/Feb/26 12:31 PM
+Evidence capture (screenshots + 1 clip),CS4483-40,10074,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 12:31 PM,15/Feb/26 12:33 PM,15/Feb/26 12:33 PM,,D2 Deliverable 2 (Mid-Project Report),12/Mar/26 12:00 AM,0,deliverable-d2,evidence,rubric,,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,CS4483-36,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3fbb6970,,,,,,,,,,,,,,,,0|i000bj:,,,Sprint 3 — Content & Balancing,,,,,,,,,,,,10069,CS4483-35,Narrative Design & World-Building (D2),To Do,15/Feb/26 12:31 PM
+Consistency pass (tone + terminology + visual alignment),CS4483-39,10073,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Jack,712020:e6f6796d-e4b8-4c16-a0cc-7c07cb345613,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 12:31 PM,15/Feb/26 12:51 PM,15/Feb/26 12:33 PM,,D2 Deliverable 2 (Mid-Project Report),10/Mar/26 12:00 AM,0,deliverable-d2,rubric,worldbuilding,,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,CS4483-36,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@157130dc,,,,,,,,,,,,,,,,0|i000bb:,,,Sprint 3 — Content & Balancing,,,,,,,,,,,,10069,CS4483-35,Narrative Design & World-Building (D2),To Do,15/Feb/26 12:31 PM
+Environmental storytelling pass (props/text/visual cues),CS4483-38,10072,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Jack,712020:e6f6796d-e4b8-4c16-a0cc-7c07cb345613,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 12:31 PM,15/Feb/26 12:51 PM,15/Feb/26 12:32 PM,,D2 Deliverable 2 (Mid-Project Report),10/Mar/26 12:00 AM,0,deliverable-d2,rubric,worldbuilding,,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,CS4483-36,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@75200ef1,,,,,,,,,,,,,,,,0|i000b3:,,,Sprint 3 — Content & Balancing,,,,,,,,,,,,10069,CS4483-35,Narrative Design & World-Building (D2),To Do,15/Feb/26 12:31 PM
+In-world delivery implementation (dialogue / notes / UI placeholder),CS4483-37,10071,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,High,,Jack,712020:e6f6796d-e4b8-4c16-a0cc-7c07cb345613,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 12:30 PM,15/Feb/26 12:51 PM,15/Feb/26 12:32 PM,,D2 Deliverable 2 (Mid-Project Report),08/Mar/26 12:00 AM,0,deliverable-d2,narrative,rubric,,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,CS4483-36,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5458ffb,,,,,,,,,,,,,,,,0|i000av:,,,Sprint 3 — Content & Balancing,,,,,,,,,,,,10069,CS4483-35,Narrative Design & World-Building (D2),To Do,15/Feb/26 12:30 PM
+Narrative beats outline (3–5 beats) + placement plan,CS4483-36,10070,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 12:25 PM,15/Feb/26 12:32 PM,15/Feb/26 12:32 PM,,D2 Deliverable 2 (Mid-Project Report),05/Mar/26 12:00 AM,0,deliverable-d2,narrative,rubric,,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,CS4483-37,CS4483-38,CS4483-39,CS4483-40,CS4483-41,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@482cec41,,,,,,,,,,,,,,,,0|i000an:,,,Sprint 3 — Content & Balancing,,,,,,,,,,,,10069,CS4483-35,Narrative Design & World-Building (D2),To Do,15/Feb/26 12:25 PM
+Narrative Design & World-Building (D2),CS4483-35,10069,Story,In Progress,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,High,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 12:23 PM,15/Feb/26 4:51 PM,15/Feb/26 12:34 PM,,D2 Deliverable 2 (Mid-Project Report),12/Mar/26 12:00 AM,0,deliverable-d2,narrative,rubric,worldbuilding,,"*Acceptance Criteria (Checklist)*
+
+* Story beats / lore appear in-world (e.g., environmental text, NPC, UI, or scripted events).
+* At least one in-game narrative delivery method exists (dialogue box, notes, cutscene, or placeholder).
+* Tone + setting are consistent with the project premise across level visuals + text.
+* Evidence is captured (screenshots/video + brief annotation) for the report.
+
+*Evidence to collect*
+
+* Screenshots of at least 3 narrative touchpoints (with short captions).
+* 1 short gameplay clip (15–30s) showing narrative delivery in context.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@cd1c5d2,,,,,,,,,,,,,,,,0|i000af:,,,Sprint 3 — Content & Balancing,03/Mar/26 12:00 AM,,,,,,,,,,,10055,CS4483-28,Deliverable 2 — Mid-Project Report (Unity Prototype),In Progress,15/Feb/26 4:51 PM
+Report write-up,CS4483-34,10067,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 12:17 PM,15/Feb/26 12:19 PM,15/Feb/26 12:18 PM,,,02/Mar/26 12:00 AM,0,deliverable-d2,,,,,"Write the rubric-aligned paragraph(s): what was built, what cues were used, how pacing was handled, and reference evidence.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,CS4483-31,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6f263e70,,,,,,,,,,,,,,,,0|i000a7:,,,Sprint 2 — Prototype Foundatio,,,,,,,,,,,,10061,CS4483-29,Level Design & Player Guidance (D2),To Do,15/Feb/26 12:17 PM
+Evidence capture,CS4483-33,10066,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 12:17 PM,15/Feb/26 12:18 PM,15/Feb/26 12:18 PM,,,02/Mar/26 12:00 AM,0,deliverable-d2,,,,,Capture 3+ screenshots and write 1–2 sentences per screenshot describing the guidance cue.,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,CS4483-31,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5dcfaa3f,,,,,,,,,,,,,,,,0|i0009z:,,,Sprint 2 — Prototype Foundatio,,,,,,,,,,,,10061,CS4483-29,Level Design & Player Guidance (D2),To Do,15/Feb/26 12:17 PM
+Pacing pass,CS4483-32,10065,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 12:16 PM,15/Feb/26 12:18 PM,15/Feb/26 12:17 PM,,,01/Mar/26 12:00 AM,0,deliverable-d2,,,,,"Adjust spacing, enemy placement, and choke points to avoid dead-end confusion and improve flow.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,CS4483-31,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7f199b53,,,,,,,,,,,,,,,,0|i0009r:,,,Sprint 2 — Prototype Foundatio,,,,,,,,,,,,10061,CS4483-29,Level Design & Player Guidance (D2),To Do,15/Feb/26 12:16 PM
+Guidance cues implementation,CS4483-31,10064,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 12:15 PM,15/Feb/26 12:17 PM,15/Feb/26 12:16 PM,,,26/Feb/26 12:00 AM,0,deliverable-d2,,,,,Implement at least three guidance cues and document where/why each cue is used.,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,CS4483-32,CS4483-33,CS4483-34,,,,CS4483-30,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1000dd6f,,,,,,,,,,,,,,,,0|i0009j:,,,Sprint 2 — Prototype Foundatio,,,,,,,,,,,,10061,CS4483-29,Level Design & Player Guidance (D2),To Do,15/Feb/26 12:15 PM
+Unity level blockout,CS4483-30,10063,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 12:04 PM,15/Feb/26 12:15 PM,15/Feb/26 12:14 PM,,,22/Feb/26 12:00 AM,0,deliverable-d2,,,,,"* Greybox main path from start to goal
+* Mark intended guidance points (where cues will be placed)
+* Ensure the route is completable end-to-end",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,CS4483-31,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@10fd7669,,,,,,,,,,,,,,,,0|i0009b:,,,Sprint 2 — Prototype Foundatio,,,,,,,,,,,,10061,CS4483-29,Level Design & Player Guidance (D2),To Do,15/Feb/26 12:04 PM
+Level Design & Player Guidance (D2),CS4483-29,10061,Story,In Progress,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,High,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 12:02 PM,15/Feb/26 4:51 PM,15/Feb/26 12:24 PM,,D2 Deliverable 2 (Mid-Project Report),02/Mar/26 12:00 AM,0,deliverable-d2,level-design,player-guidance,rubric,,"Goal
+Build at least one playable level with clear navigation (start → goal) and intentional pacing.
+
+Scope
+
+* Greybox/blockout of 1 level (core route + optional side path if time permits)
+* Player guidance cues embedded in the level
+* Evidence captured for D2 report (screenshots + short notes)
+
+Acceptance Criteria (AC)
+
+* [ ] At least 1 playable level exists with a clear navigation flow (start → goal).
+* [ ] Player guidance uses 3+ cues (e.g., lighting, signage, camera framing, enemy placement, landmarks).
+* [ ] Exploration vs. challenge is intentionally paced (no repeated dead-end confusion).
+* [ ] Level has a basic checkpoint/restart behavior that does not break the run.
+
+Evidence to attach
+
+* [ ] 3+ screenshots showing guidance cues and route clarity
+* [ ] Short notes: what each cue is + why it works",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@16376ba2,,,,,,,,,,,,,,,,0|i00093:,,,Sprint 2 — Prototype Foundatio,16/Feb/26 12:00 AM,,,,,,,,,,,10055,CS4483-28,Deliverable 2 — Mid-Project Report (Unity Prototype),In Progress,15/Feb/26 4:51 PM
+Deliverable 2 — Mid-Project Report (Unity Prototype),CS4483-28,10055,Epic,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,High,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 11:42 AM,15/Feb/26 11:42 AM,,,D2 Deliverable 2 (Mid-Project Report),,0,deliverable-d2,,,,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@20715e9b,,,,,ghx-label-9,,To Do,,,,orange,,,,,0|i0008v:,,,,12/Feb/26 12:00 AM,,,,,,,,,,,,,,To Do,15/Feb/26 11:42 AM
+Test for soft-lock scenarios after multiple restarts,CS4483-27,10054,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Jack,712020:e6f6796d-e4b8-4c16-a0cc-7c07cb345613,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 10:54 AM,15/Feb/26 10:54 AM,,,,,0,,,,,,Design and execute tests to verify that no soft-locks occur after five or more consecutive restarts. Document and address any issues found.,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5d961f04,,,,,,,,,,,,,,,,0|i0008n:,,,Sprint 1 — Core Loop Demo,,,,,,,,,,,,10026,CS4483-13,Implement playable core loop (start → play → fail/win → restart),To Do,15/Feb/26 10:54 AM
+Optimize run start flow for quick entry,CS4483-26,10052,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Jack,712020:e6f6796d-e4b8-4c16-a0cc-7c07cb345613,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 10:54 AM,15/Feb/26 10:54 AM,,,,,0,,,,,,"Ensure that starting a new run brings the player to a playable state within 10 seconds. Streamline loading, initialization, and UI to meet this requirement.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5a7d7281,,,,,,,,,,,,,,,,0|i0008f:,,,Sprint 1 — Core Loop Demo,,,,,,,,,,,,10026,CS4483-13,Implement playable core loop (start → play → fail/win → restart),To Do,15/Feb/26 10:54 AM
+Develop win and fail condition detection,CS4483-25,10050,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Jack,712020:e6f6796d-e4b8-4c16-a0cc-7c07cb345613,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 10:54 AM,15/Feb/26 10:54 AM,,,,,0,,,,,,Define and implement the logic for determining when a run ends in a win or fail state. Ensure these conditions are clear and trigger the appropriate end-of-run flow.,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1a3bb46,,,,,,,,,,,,,,,,0|i00087:,,,Sprint 1 — Core Loop Demo,,,,,,,,,,,,10026,CS4483-13,Implement playable core loop (start → play → fail/win → restart),To Do,15/Feb/26 10:54 AM
+Create clean restart functionality,CS4483-24,10048,Sub-task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 10:54 AM,15/Feb/26 10:54 AM,,,,,0,,,,,,"Implement a restart system that reliably resets the game to its initial state, ensuring no duplicated entities, leftover UI, or broken input. Test for edge cases such as multiple rapid restarts.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1715954c,,,,,,,,,,,,,,,,0|i0007z:,,,Sprint 1 — Core Loop Demo,,,,,,,,,,,,10026,CS4483-13,Implement playable core loop (start → play → fail/win → restart),To Do,15/Feb/26 10:54 AM
+"Implement game state transitions (start, play, win, fail, restart)",CS4483-23,10046,Sub-task,In Progress,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 10:53 AM,15/Feb/26 10:54 AM,,,,,0,,,,,,"Develop the logic to handle transitions between the core game states: starting a run, active play, win, fail, and restarting. Ensure each state is clearly defined and transitions are robust.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3a28f241,,,,,,,,,,,,,,,,0|i0007r:,,,Sprint 1 — Core Loop Demo,,,,,,,,,,,,10026,CS4483-13,Implement playable core loop (start → play → fail/win → restart),In Progress,15/Feb/26 10:54 AM
+Fix top P0/P1 bugs from playtest,CS4483-22,10044,Task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 9:18 AM,15/Feb/26 9:33 AM,15/Feb/26 9:33 AM,,,,0,,,,,,"*Acceptance Criteria*
+
+* At least 3 P0/P1 bugs are fixed (or all existing P0 fixed, whichever is higher).
+* Each fix is verified using the smoke checklist.
+* Remaining known issues are logged and prioritized (not hidden).
+* Demo run can be completed end-to-end without critical blockers.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4d2f0dae,,,,,,,,,,,,,,,,0|i0007j:,,,Sprint 1 — Core Loop Demo,,,,,,,,,,,,10018,CS4483-6,Testing & Bug Fixing,To Do,15/Feb/26 9:18 AM
+Bug triage template (severity + repro steps),CS4483-21,10042,Task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 9:18 AM,15/Feb/26 9:33 AM,15/Feb/26 9:33 AM,,,,0,,,,,,"*Acceptance Criteria*
+
+* Bug template includes: summary, environment, repro steps, expected vs actual, severity (P0/P1/P2), screenshots/logs.
+* Severity definitions are documented (what counts as P0/P1/P2).
+* At least 3 sample bugs are created using the template (can be real or mock).",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7ec90738,,,,,,,,,,,,,,,,0|i0007b:,,,Sprint 1 — Core Loop Demo,,,,,,,,,,,,10018,CS4483-6,Testing & Bug Fixing,To Do,15/Feb/26 9:18 AM
+Smoke test checklist (start/play/fail/restart),CS4483-20,10040,Task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 9:18 AM,15/Feb/26 9:33 AM,15/Feb/26 9:32 AM,,,,0,,,,,,"*Acceptance Criteria*
+
+* Checklist includes at least 12 test steps covering start/play/win/fail/restart/pause.
+* Each step has expected result written.
+* Checklist is reusable for future sprints (saved in Jira issue).
+* One full smoke test run is executed and results noted (pass/fail).",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@67f70179,,,,,,,,,,,,,,,,0|i00073:,,,Sprint 1 — Core Loop Demo,,,,,,,,,,,,10018,CS4483-6,Testing & Bug Fixing,To Do,15/Feb/26 9:18 AM
+Boss concept + 3-pattern spec (MVP),CS4483-19,10038,Task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 9:17 AM,15/Feb/26 9:32 AM,15/Feb/26 9:31 AM,,,,0,,,,,,"*Acceptance Criteria*
+
+* Boss design includes theme + player counterplay concept.
+* 3 attack patterns are specified with telegraph + expected player response.
+* Patterns are feasible with current mechanics (no new big systems required).
+* Spec is written clearly enough that another teammate could implement it.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@108ba5af,,,,,,,,,,,,,,,,0|i0006v:,,,Sprint 1 — Core Loop Demo,,,,,,,,,,,,10015,CS4483-3,Levels & Bosses,To Do,15/Feb/26 9:17 AM
+Level 1 blockout + encounter placement (MVP),CS4483-18,10036,Task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Jack,712020:e6f6796d-e4b8-4c16-a0cc-7c07cb345613,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 9:17 AM,15/Feb/26 10:51 AM,15/Feb/26 9:30 AM,,,,0,,,,,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@687de23d,,,,,,,,,,,,,,,,0|i0006n:,,,Sprint 1 — Core Loop Demo,,,,,,,,,,,,10015,CS4483-3,Levels & Bosses,To Do,15/Feb/26 9:17 AM
+Pause + restart flow (state-safe),CS4483-17,10034,Task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Jack,712020:e6f6796d-e4b8-4c16-a0cc-7c07cb345613,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 9:17 AM,15/Feb/26 10:52 AM,15/Feb/26 10:52 AM,,,28/Feb/26 12:00 AM,0,,,,,,"*Acceptance Criteria*
+
+* Pause freezes gameplay (movement/AI/timers) and shows a pause UI.
+* Resume returns to the exact pre-pause state.
+* Restart works from both paused and unpaused states.
+* No state corruption after pause → restart → start again sequence.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6fbafdf,,,,,,,,,,,,,,,,0|i0006f:,,,Sprint 1 — Core Loop Demo,,,,,,,,,,,,10016,CS4483-4,UI/UX,To Do,15/Feb/26 9:17 AM
+HUD MVP (health/status/objective),CS4483-16,10032,Task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 9:17 AM,15/Feb/26 10:52 AM,15/Feb/26 10:52 AM,,,28/Feb/26 12:00 AM,0,,,,,,"*Acceptance Criteria*
+
+* HUD displays health/status and a simple objective or guidance.
+* HUD does not overlap critical gameplay area on common resolutions.
+* Values update correctly during gameplay (e.g., after damage/heal).
+* HUD can be toggled off/on for debugging (optional but nice).",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@325f91a0,,,,,,,,,,,,,,,,0|i00067:,,,Sprint 1 — Core Loop Demo,,,,,,,,,,,,10016,CS4483-4,UI/UX,To Do,15/Feb/26 9:17 AM
+"Add basic feedback (hit, damage, cooldown or equivalent)",CS4483-15,10030,Task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 9:17 AM,15/Feb/26 10:52 AM,15/Feb/26 10:52 AM,,,28/Feb/26 12:00 AM,0,,,,,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3e558158,,,,,,,,,,,,,,,,0|i0005z:,,,Sprint 1 — Core Loop Demo,,,,,,,,,,,,10014,CS4483-2,Core Gameplay Loop,To Do,15/Feb/26 9:17 AM
+Core controls + interaction/combat MVP,CS4483-14,10028,Task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 9:17 AM,15/Feb/26 10:52 AM,15/Feb/26 10:52 AM,,,28/Feb/26 12:00 AM,0,,,,,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2796cb69,,,,,,,,,,,,,,,,0|i0005r:,,,Sprint 1 — Core Loop Demo,,,,,,,,,,,,10014,CS4483-2,Core Gameplay Loop,To Do,15/Feb/26 9:17 AM
+Implement playable core loop (start → play → fail/win → restart),CS4483-13,10026,Task,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 9:16 AM,15/Feb/26 10:54 AM,15/Feb/26 10:53 AM,,,25/Feb/26 12:00 AM,0,,,,,,"*Acceptance Criteria*
+
+* Player can start a new run and reach a playable state within 10 seconds.
+* A run ends in a clear *Win* or *Fail* state.
+* Restart returns the game to a clean initial state (no duplicated entities, no leftover UI, no broken input).
+* No soft-lock after 5 consecutive restarts.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3b1e15a2,,,,,,,,,,,,,,,,0|i0005j:,,,Sprint 1 — Core Loop Demo,,,,,,,,,,,,10014,CS4483-2,Core Gameplay Loop,To Do,15/Feb/26 9:16 AM
+Action Items Tracking (Owner + Due Date),CS4483-12,10024,Story,Done,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,Done,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 9:08 AM,15/Feb/26 11:38 AM,15/Feb/26 9:09 AM,15/Feb/26 9:14 AM,D0 Team Contract,,0,workstream-coordination,,,,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@17deb04f,,,,,,,,,,,,,,,,0|i0005b:,,,Sprint 0 — Setup & Planning,,,,,,,,,,,10011_*:*_1_*:*_312003_*|*_10012_*:*_1_*:*_0,10013,CS4483-1,Requirements & Scope,Done,15/Feb/26 9:14 AM
+Weekly Status Report Template + Cadence,CS4483-11,10023,Story,Done,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,Done,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 9:08 AM,15/Feb/26 11:38 AM,,15/Feb/26 9:14 AM,D0 Team Contract,,0,workstream-coordination,,,,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6db0315d,,,,,,,,,,,,,,,,0|i00053:,,,Sprint 0 — Setup & Planning,,,,,,,,,,,10011_*:*_1_*:*_354069_*|*_10012_*:*_1_*:*_0,10013,CS4483-1,Requirements & Scope,Done,15/Feb/26 9:14 AM
+Risk & Issue Log (Baseline),CS4483-10,10022,Story,Done,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,Done,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 9:06 AM,15/Feb/26 11:38 AM,,15/Feb/26 9:14 AM,D0 Team Contract,,0,risk,workstream-scope,,,,"* *Goal:* Establish a risk/issue tracking system.
+* *Acceptance Criteria:*
+*# Create at least *5 risks* in Jira (as separate issues or a documented table).
+*# Each risk includes: *Impact*, *Probability*, *Mitigation*, *Owner*, *Due date*.
+*# At least 1 risk marked as “active” with a mitigation action item.
+*# Weekly review process defined (who checks, when).",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1e6e00c5,,,,,,,,,,,,,,,,0|i0004v:,,,Sprint 0 — Setup & Planning,,,,,,,,,,,10011_*:*_1_*:*_447806_*|*_10012_*:*_1_*:*_0,10013,CS4483-1,Requirements & Scope,Done,15/Feb/26 9:14 AM
+Definition of Done (DoD) + AC Template,CS4483-9,10021,Story,Done,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,Done,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 8:53 AM,15/Feb/26 11:38 AM,,15/Feb/26 9:14 AM,D0 Team Contract,,0,workstream-scope,,,,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3d8e3a87,,,,,,,,,,,,,,,,0|i0004n:,,,Sprint 0 — Setup & Planning,,,,,,,,,,,10011_*:*_1_*:*_1207448_*|*_10012_*:*_1_*:*_0,10013,CS4483-1,Requirements & Scope,Done,15/Feb/26 9:14 AM
+Milestones + Sprint Plan (Timeline),CS4483-8,10020,Story,Done,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,Done,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 8:49 AM,15/Feb/26 11:38 AM,,15/Feb/26 9:14 AM,D0 Team Contract,,0,workstream-scope,,,,,Deliver a playable core gameplay loop demo with basic UI and stable restart flow.,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@61519a48,,,,,,,,,,,,,,,,0|i0004f:,,,Sprint 0 — Setup & Planning,,,,,,,,,,,10011_*:*_1_*:*_1457837_*|*_10012_*:*_1_*:*_0,10013,CS4483-1,Requirements & Scope,Done,15/Feb/26 9:14 AM
+Project Charter + Scope Statement,CS4483-7,10019,Story,Done,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,Done,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 8:48 AM,15/Feb/26 11:38 AM,15/Feb/26 9:12 AM,15/Feb/26 9:14 AM,D0 Team Contract,,0,workstream-scope,,,,,"* *Goal:* Define project scope and success criteria.
+* *Deliverable:* 1-page project charter.
+* *Acceptance Criteria:*
+*# Charter is 1 page (max 2).
+*# Includes *scope*, *out-of-scope*, *assumptions*, *constraints*, and *success criteria*.
+*# Reviewed by team and updated based on feedback.
+*# Final version linked/attached in Jira.",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@40c78ccd,,,,,,,,,,,,,,,,0|i00047:,,,Sprint 0 — Setup & Planning,,,,,,,,,,,10011_*:*_1_*:*_1531248_*|*_10012_*:*_1_*:*_0,10013,CS4483-1,Requirements & Scope,Done,15/Feb/26 9:14 AM
+Testing & Bug Fixing,CS4483-6,10018,Epic,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 8:43 AM,15/Feb/26 8:43 AM,,,,,0,epic-testing,,,,,"*Objective*
+Stabilize the project through systematic testing, bug triage, and regression checks to ensure demo/readme deliverables are reliable.
+
+*Deliverables*
+
+* Test plan checklist (smoke tests for main flows)
+* Bug triage process (severity, priority, owner, due date)
+* Regression checklist executed per sprint / before submission
+* Known issues list (if any) + mitigation/workarounds
+* Final stability pass and demo-ready build
+
+*Acceptance Criteria*
+
+* All P0/P1 bugs (crash, data loss, soft-lock, blocker) are resolved or mitigated
+* Smoke test passes: start → play → fail/win → restart; save/load (if in scope)
+* Bugs include reproduction steps + expected vs actual + screenshots/logs when relevant
+* Weekly bug trend is tracked (created vs resolved) or at minimum “open bug count” is reported
+* Final deliverable meets submission/demo requirements
+
+*Dependencies / Risks*
+
+* Dependencies: stable builds from other epics; team availability for testing
+* Risks: last-minute integration failures → mitigate by “integration day” tasks + regression checklist; unowned bugs → mitigate by assigning owners",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2542acd6,,,,,ghx-label-14,,To Do,,,,dark_orange,,,,,0|i0003z:,,,,,,,,,,,,,,,,,,To Do,15/Feb/26 8:43 AM
+Save/Load & Data,CS4483-5,10017,Epic,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 8:42 AM,15/Feb/26 8:47 AM,,,,,0,epic-save-load,,,,,"h2. 
+
+*Objective*
+Implement reliable persistence for game state and a clean data model to support debugging, balancing, and future extensions.
+
+*Deliverables*
+
+* Save/load workflow defined (when save happens; what is persisted)
+* GameState schema documented (fields, versioning approach)
+* Implementation of serialization/deserialization (JSON/local storage)
+* Data validation + backward compatibility strategy (basic)
+* Minimal debug logging for save/load failures
+
+*Acceptance Criteria*
+
+* Game state can be saved and restored without loss of critical progress
+* Save files are readable and structured (consistent schema)
+* Load handles corrupted/missing data gracefully (fails safely)
+* At least 5 test cases documented (fresh start, mid-run save, reload, invalid file, version change)
+* Save/load tasks include clear acceptance checks and owners
+
+*Dependencies / Risks*
+
+* Dependencies: finalized list of persistent fields; core loop state machine
+* Risks: schema churn → mitigate via version field; data corruption → mitigate via validation + fallback",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2192e4af,,,,,ghx-label-1,,To Do,,,,dark_grey,,,,,0|i0003r:,,,,,,,,,,,,,,,,,,To Do,15/Feb/26 8:42 AM
+UI/UX,CS4483-4,10016,Epic,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 8:41 AM,15/Feb/26 8:46 AM,,,,,0,epic-uiux,,,,,"*Objective*
+Deliver a clear, consistent user experience with readable feedback, menus, and accessibility-friendly UI for core interactions.
+
+*Deliverables*
+
+* Main menu + pause/menu flow (start, restart, quit)
+* In-game HUD (health/status/objectives as needed)
+* Basic settings (volume / keybinds or minimal options)
+* UI copy/labels consistency + error states (e.g., invalid action feedback)
+* UX checklist (navigation, readability, input responsiveness)
+
+*Acceptance Criteria*
+
+* Player can start a run, pause, resume, and restart without confusion
+* HUD communicates critical information with minimal clutter
+* UI is functional on target resolution/window mode (no overlap/clipping)
+* At least 1 accessibility consideration implemented (e.g., font size/readability, color contrast, remappable keys, subtitles—pick one)
+* UI/UX bugs tracked separately from gameplay bugs
+
+*Dependencies / Risks*
+
+* Dependencies: defined game states (menu ↔ gameplay ↔ game over); art assets (placeholder ok)
+* Risks: UI scope creep → mitigate by MVP menu + HUD first; inconsistent states → mitigate by documenting UI flow",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5f320b5e,,,,,ghx-label-2,,To Do,,,,dark_yellow,,,,,0|i0003j:,,,,,,,,,,,,,,,,,,To Do,15/Feb/26 8:41 AM
+Levels & Bosses,CS4483-3,10015,Epic,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 8:41 AM,15/Feb/26 8:46 AM,,,,,0,epic-level-boss,,,,,"*Objective*
+Build at least one complete level and boss encounter that showcases progression, readability, and difficulty tuning.
+
+*Deliverables*
+
+* Level layout and progression plan (gates/checkpoints/flow)
+* Boss design spec (patterns, phases, counters, telegraphs)
+* Implementation of boss behaviors + collision/damage rules
+* Checkpoint / respawn integration (if applicable)
+* Difficulty tuning notes + playtest results
+
+*Acceptance Criteria*
+
+* Level has a clear start → goal path with at least 1 meaningful challenge sequence
+* Boss encounter is beatable and repeatable; patterns are learnable (telegraphed)
+* At least 1 tuning pass completed based on playtest feedback
+* No critical blockers in level flow (spawn, checkpoints, transitions)
+* Boss/level tasks are tracked with clear owner + due dates
+
+*Dependencies / Risks*
+
+* Dependencies: core loop stability; art/audio placeholders; save/checkpoint rules
+* Risks: over-complex boss → mitigate by MVP pattern set first; integration bugs → mitigate via dedicated test tasks",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2681f45c,,,,,ghx-label-10,,To Do,,,,blue,,,,,0|i0003b:,,,,,,,,,,,,,,,,,,To Do,15/Feb/26 8:41 AM
+Core Gameplay Loop,CS4483-2,10014,Epic,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 8:40 AM,15/Feb/26 8:45 AM,,,,,0,epic-coreloop,,,,,"*Objective*
+Deliver a playable core loop that demonstrates the intended player experience (input → action → feedback → progression → repeat).
+
+*Deliverables*
+
+* Core player controls + movement/combat/interactions implemented
+* Basic game state loop: start → play → fail/win → restart
+* Minimal UI feedback (HP/energy/cooldowns or equivalent)
+* Tuning parameters documented (damage, cooldowns, movement speed, etc.)
+* Demo build for playtesting + short playtest notes
+
+*Acceptance Criteria*
+
+* Player can complete a full gameplay cycle within 3–5 minutes
+* Failure and restart flow is consistent (no soft-locks)
+* At least 1 complete encounter (enemy or obstacle) is playable end-to-end
+* Key gameplay parameters are configurable (not hard-coded everywhere)
+* Playtest feedback captured and at least 3 adjustments logged in Jira
+
+*Dependencies / Risks*
+
+* Dependencies: design decisions on mechanics + basic assets (placeholder ok)
+* Risks: scope creep → mitigate by locking MVP loop first; unstable tuning → mitigate via config/tuning doc",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@30be1715,,,,,ghx-label-9,,To Do,,,,orange,,,,,0|i00033:,,,,,,,,,,,,,,,,,,To Do,15/Feb/26 8:40 AM
+Requirements & Scope,CS4483-1,10013,Epic,To Do,CS4483,CS4483-TeamWorkFlow,software,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,Medium,,,,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,15/Feb/26 8:38 AM,15/Feb/26 8:38 AM,,,,,0,epic-scope,,,,,"*Objective*
+Define project scope, success criteria, milestones, and coordination process for CS4483 game development.
+
+*Deliverables*
+
+* Project charter (1-page): scope, assumptions, constraints
+* Milestone plan (Sprint goals + key dates)
+* Definition of Done (DoD) and acceptance criteria template
+* Risk/Issue log baseline + owner assignment
+* Communication cadence: weekly status update format + action-item tracking
+
+*Acceptance Criteria*
+
+* Scope statement finalized and approved by team
+* Milestones and sprint goals visible in Jira (Backlog/Timeline)
+* DoD + acceptance criteria template applied to new Stories/Tasks
+* Initial risk log created with at least 5 items (impact/probability/mitigation/owner/due date)
+
+*Dependencies / Risks*
+
+* Dependency: timely input from design/dev/art teammates
+* Risk: scope creep → mitigated via DoD + change log",,Bella,712020:bc18a37a-616d-4f7e-9f1b-8d68eda07553,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2643c602,,,,,ghx-label-4,,To Do,,,,dark_blue,,,,,0|i0002v:,,,,04/Jan/26 12:00 AM,,,,,,,,,,,,,,To Do,15/Feb/26 8:38 AM
